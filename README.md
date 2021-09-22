@@ -10,3 +10,7 @@
 
 - ICLR 2018 FASTGCN: Fast Learning With Graph Convolutional Networks Via Importance Sampling [[Paper](https://arxiv.org/abs/1801.10247)] [[Code](https://github.com/matenure/FastGCN)] [[Link](https://zhuanlan.zhihu.com/p/412020874)]
 
+## Graph Embedding Based on Random Walk
+
+- KDD 2014 DeepWalk: Online Learning of Social Representations [[Paper](https://arxiv.org/abs/1403.6652)] [[Code](https://github.com/phanein/deepwalk)] [[Link](https://zhuanlan.zhihu.com/p/412713441)]
+
