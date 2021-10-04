@@ -23,3 +23,4 @@
 ## 4. GNN + Differential Privacy
 
 - introduction [[Link](https://zhuanlan.zhihu.com/p/416264898)]
+- Local Differential Privacy: a tutorial [[Paper](https://arxiv.org/abs/1907.11908)] [[Link](https://zhuanlan.zhihu.com/p/416556008)]

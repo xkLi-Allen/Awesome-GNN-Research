@@ -26,4 +26,8 @@ https://web.ecs.syr.edu/~ffiorett/classes/spring21/cis700.html
 
    IJCAI 2021 《Secure Deep Graph Generation with Link Differential Privacy》
 
-6. 
+6. 差分隐私：原理、应用与展望
+
+   https://www.bilibili.com/video/BV1Tk4y117uA
+
+7. 
