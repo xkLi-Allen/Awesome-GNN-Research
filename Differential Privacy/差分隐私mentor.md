@@ -14,13 +14,13 @@ https://web.ecs.syr.edu/~ffiorett/classes/spring21/cis700.html
 
 3. 本地化差分隐私资料：
 
-   《Local Differential Privacy a tutorial》-- **用于了解 LDP**
+   《Local Differential Privacy a tutorial》-- **用于了解 LDP** 				**√**
 
    《A Comprehensive Survey on Local Differential Privacy》
 
 4. 中文资料：
 
-   《本地化差分隐私研究综述》
+   《本地化差分隐私研究综述》		**√**
 
 5. GNN + DP paper：
 
@@ -30,4 +30,8 @@ https://web.ecs.syr.edu/~ffiorett/classes/spring21/cis700.html
 
    https://www.bilibili.com/video/BV1Tk4y117uA
 
-7. 
+7. 《book-differntial privacy from theory to practice》
+
+   这本书讲了传统的DP的一些机制
+
+8. 
