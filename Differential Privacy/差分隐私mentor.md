@@ -24,7 +24,7 @@ https://web.ecs.syr.edu/~ffiorett/classes/spring21/cis700.html
 
 5. GNN + DP paper：
 
-   IJCAI 2021 《Secure Deep Graph Generation with Link Differential Privacy》
+   IJCAI 2021 《Secure Deep Graph Generation with Link Differential Privacy》 **√**
 
 6. 差分隐私：原理、应用与展望
 
