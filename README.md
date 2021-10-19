@@ -24,8 +24,23 @@
 ## 4. GNN + Differential Privacy
 
 - introduction [[Link](https://zhuanlan.zhihu.com/p/416264898)]
+
 - Local Differential Privacy: a tutorial [[Paper](https://arxiv.org/abs/1907.11908)] [[Link](https://zhuanlan.zhihu.com/p/416556008)]
+
 - 本地化差分隐私研究综述 [[Paper](https://wenku.baidu.com/view/ca901cf8876fb84ae45c3b3567ec102de3bddf84?fr=xueshu)] [[Link](https://zhuanlan.zhihu.com/p/417209747)]
+
 - IJCAI 2021 Secure Deep Graph Generation with Link Differential Privacy [[Paper](https://arxiv.org/abs/2005.00455v3)] [[Code](https://github.com/haonan3/Secure-Network-Release-with-Link-Privacy)] [[Link](https://zhuanlan.zhihu.com/p/417555475)]
+
 - SIGSAC 2016 Deep Learning with Differential Privacy [[Paper](https://arxiv.org/abs/1607.00133v1)] [[Code](https://github.com/lingyunhao/Deep-Learning-with-Differential-Privacy)] [[Link](https://zhuanlan.zhihu.com/p/419216660)]
+
+- ICLR 2017 Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data [[Paper](https://arxiv.org/abs/1610.05755)] [[Code](https://github.com/kamathhrishi/PATE)] [[Link](https://zhuanlan.zhihu.com/p/423009101)]
+
+- ICLR 2018 Scalable Private Learning With PATE [[Paper](https://arxiv.org/abs/1802.08908)] [[Code](https://github.com/kamathhrishi/PATE)] [[Link](https://zhuanlan.zhihu.com/p/423063552)]
+
+  
+
+## 5. GNN library
+
+- Graph library -- PyG、GarphGallery [[Link](https://zhuanlan.zhihu.com/p/420587332)]
+- Graph library -- DIG、AutoGL、CogDL [[Link](https://zhuanlan.zhihu.com/p/422082239)]
 
