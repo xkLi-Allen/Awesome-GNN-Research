@@ -38,6 +38,7 @@
 
 - CCS 2021 Locally Private Graph Neural Networks [[Paper](https://arxiv.org/pdf/2006.05535.pdf)] [[Code](https://github.com/sisaman/LPGNN)] [[Link](https://zhuanlan.zhihu.com/p/423444455)]
 - Arxiv 2020  When Differential Privacy Meets Graph Neural Networks [[Paper](https://arxiv.org/pdf/2006.05535v1.pdf)]  [[Code](https://github.com/sisaman/LPGNN)]  [[Link](https://zhuanlan.zhihu.com/p/423868946)]
+- Arxiv 2021 Releasing Graph Neural Networks with Differential Privacy [[Paper](https://arxiv.org/abs/2109.08907)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/424463019)]
 
 # 5. GNN library
 
