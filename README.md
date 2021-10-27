@@ -26,6 +26,9 @@
 - introduction [[Link](https://zhuanlan.zhihu.com/p/416264898)]
 - Local Differential Privacy: a tutorial [[Paper](https://arxiv.org/abs/1907.11908)] [[Link](https://zhuanlan.zhihu.com/p/416556008)]
 - 本地化差分隐私研究综述 [[Paper](https://wenku.baidu.com/view/ca901cf8876fb84ae45c3b3567ec102de3bddf84?fr=xueshu)] [[Link](https://zhuanlan.zhihu.com/p/417209747)]
+- 差分隐私 -- Laplace mechanism、Gaussian mechanism、Composition theorem [[Link](https://zhuanlan.zhihu.com/p/425732159)]
+- 矩母函数 GMF 及矩的概念 -- 期望、方差、归一化矩、偏态、峰度 [[Link](https://zhuanlan.zhihu.com/p/425898950)] [[Reference](https://towardsdatascience.com/moment-generating-function-explained-27821a739035)]
+- Moments Accountant 的理解 [[Link](https://zhuanlan.zhihu.com/p/425780267)] [[Reference](https://zhuanlan.zhihu.com/p/264779199)]
 
 ## 4.2 DP with Generative Model (Graph Generation)
 
@@ -44,4 +47,6 @@
 
 - Graph library -- PyG、GarphGallery [[Link](https://zhuanlan.zhihu.com/p/420587332)]
 - Graph library -- DIG、AutoGL、CogDL [[Link](https://zhuanlan.zhihu.com/p/422082239)]
+
+- PyTorch Geometric（一）：数据加载 [[Link](https://zhuanlan.zhihu.com/p/425974734)]
 
