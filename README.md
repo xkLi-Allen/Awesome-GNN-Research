@@ -30,15 +30,19 @@
 - 差分隐私 -- Laplace mechanism、Gaussian mechanism、Composition theorem [[Link](https://zhuanlan.zhihu.com/p/425732159)]
 - 矩母函数 GMF 及矩的概念 -- 期望、方差、归一化矩、偏态、峰度 [[Link](https://zhuanlan.zhihu.com/p/425898950)] [[Reference](https://towardsdatascience.com/moment-generating-function-explained-27821a739035)]
 - Moments Accountant 的理解 [[Link](https://zhuanlan.zhihu.com/p/425780267)] [[Reference](https://zhuanlan.zhihu.com/p/264779199)]
+- 基于 GNN 的隐私计算（差分隐私）Review（一）[[Link](https://zhuanlan.zhihu.com/p/426267637)]
 
-## 4.2 DP with Generative Model (Graph Generation)
+## 4.2 Important Algorithms (Principles and Framework)
 
-- IJCAI 2021 Secure Deep Graph Generation with Link Differential Privacy [[Paper](https://arxiv.org/abs/2005.00455v3)] [[Code](https://github.com/haonan3/Secure-Network-Release-with-Link-Privacy)] [[Link](https://zhuanlan.zhihu.com/p/417555475)]
 - SIGSAC 2016 Deep Learning with Differential Privacy [[Paper](https://arxiv.org/abs/1607.00133v1)] [[Code](https://github.com/lingyunhao/Deep-Learning-with-Differential-Privacy)] [[Link](https://zhuanlan.zhihu.com/p/419216660)]
 - ICLR 2017 Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data [[Paper](https://arxiv.org/abs/1610.05755)] [[Code](https://github.com/kamathhrishi/PATE)] [[Link](https://zhuanlan.zhihu.com/p/423009101)]
 - ICLR 2018 Scalable Private Learning With PATE [[Paper](https://arxiv.org/abs/1802.08908)] [[Code](https://github.com/kamathhrishi/PATE)] [[Link](https://zhuanlan.zhihu.com/p/423063552)]
 
-## 4.3 DP with Graph representation learning
+## 4.3 DP with Generative Model (Graph Generation)
+
+- IJCAI 2021 Secure Deep Graph Generation with Link Differential Privacy [[Paper](https://arxiv.org/abs/2005.00455v3)] [[Code](https://github.com/haonan3/Secure-Network-Release-with-Link-Privacy)] [[Link](https://zhuanlan.zhihu.com/p/417555475)]
+
+## 4.4 DP_LDP with Graph representation learning
 
 - CCS 2021 Locally Private Graph Neural Networks [[Paper](https://arxiv.org/pdf/2006.05535.pdf)] [[Code](https://github.com/sisaman/LPGNN)] [[Link](https://zhuanlan.zhihu.com/p/423444455)]
 - Arxiv 2020  When Differential Privacy Meets Graph Neural Networks [[Paper](https://arxiv.org/pdf/2006.05535v1.pdf)]  [[Code](https://github.com/sisaman/LPGNN)]  [[Link](https://zhuanlan.zhihu.com/p/423868946)]
@@ -48,6 +52,6 @@
 
 - Graph library -- PyG、GarphGallery [[Link](https://zhuanlan.zhihu.com/p/420587332)]
 - Graph library -- DIG、AutoGL、CogDL [[Link](https://zhuanlan.zhihu.com/p/422082239)]
-
 - PyTorch Geometric（一）：数据加载 [[Link](https://zhuanlan.zhihu.com/p/425974734)]
+- PyTorch Geometric（二）：模型搭建 [[Link](https://zhuanlan.zhihu.com/p/427083823)]
 
