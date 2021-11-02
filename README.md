@@ -20,7 +20,7 @@
 - NIPS 2013  Distributed Representations of Words and Phrases and their Compositionality [[Paper](https://arxiv.org/abs/1310.4546)] [[Code](https://github.com/brijml/mikolov_word2vec)] [[Link](https://zhuanlan.zhihu.com/p/413169135)]
 - KDD 2016 Structural Deep Network Embedding [[Paper](http://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)] [[Code](https://github.com/suanrong/SDNE)] [[Link](https://zhuanlan.zhihu.com/p/413468532)]
 
-# 4. GNN + Differential Privacy
+# 4. GNN + (Local) Differential Privacy
 
 ## 4.1 Overview and Survey
 
@@ -55,3 +55,7 @@
 - PyTorch Geometric（一）：数据加载 [[Link](https://zhuanlan.zhihu.com/p/425974734)]
 - PyTorch Geometric（二）：模型搭建 [[Link](https://zhuanlan.zhihu.com/p/427083823)]
 
+# 6. Federated Learning
+
+- 联邦学习综述：Federated Machine Learning: Concept and Applications [[Paper](https://arxiv.org/abs/1902.04885)] [[Link](https://zhuanlan.zhihu.com/p/427770121)]
+- 论文笔记：Arxiv 2021 Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification [[Paper](https://arxiv.org/abs/2005.11903)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428406637)]
