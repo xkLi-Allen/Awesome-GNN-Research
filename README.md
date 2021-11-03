@@ -1,5 +1,7 @@
 # Awesome-GNN-Research
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/XunKaiLi/Awesome-GNN-Research)
+
 # 1. Efficient and Scalable GNN Architectures
 
 - ICML 2019 Simplifying Graph Convolutional Networks [[Paper](https://arxiv.org/abs/1902.07153v1)] [[Code](https://github.com/Tiiiger/SGC)] [[Link](https://zhuanlan.zhihu.com/p/411236675)]
