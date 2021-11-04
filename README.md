@@ -60,7 +60,7 @@
 # 6. Federated Learning
 
 - 联邦学习综述：Federated Machine Learning: Concept and Applications [[Paper](https://arxiv.org/abs/1902.04885)] [[Link](https://zhuanlan.zhihu.com/p/427770121)]
-- 论文笔记：JMLR 2017 Communication-Efficient Learning of Deep Networks from Decentralized Data[[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)]
+- 论文笔记：JMLR 2017 Communication-Efficient Learning of Deep Networks from Decentralized Data [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)]
 - 论文笔记：Arxiv 2021 Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification [[Paper](https://arxiv.org/abs/2005.11903)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428406637)]
 - 论文笔记：ICML 2021 FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation [[Paper](https://arxiv.org/abs/2102.04925)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428783383)]
 - 论文笔记：ICLR 2021 FedGraphNN: A Federated Learning Benchmark System for Graph Neural Networks [[Paper](https://arxiv.org/abs/2104.07145)] [[Code](https://github.com/FedML-AI/FedGraphNN)] [[Link](https://zhuanlan.zhihu.com/p/429220636)]
