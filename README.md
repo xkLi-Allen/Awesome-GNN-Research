@@ -61,6 +61,7 @@
 - 论文笔记：Arxiv 2021 Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification [[Paper](https://arxiv.org/abs/2005.11903)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428406637)]
 - 论文笔记：ICML 2021 FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation [[Paper](https://arxiv.org/abs/2102.04925)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428783383)]
 - 论文笔记：ICLR 2021 FedGraphNN: A Federated Learning Benchmark System for Graph Neural Networks [[Paper](https://arxiv.org/abs/2104.07145)] [[Code](https://github.com/FedML-AI/FedGraphNN)] [[Link](https://zhuanlan.zhihu.com/p/429220636)]
+- 论文笔记：SpreadGNN: Serverless Multi task Federated Learning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2106.02743)] [[Code](https://github.com/FedML-AI/SpreadGNN)] [[Link](https://zhuanlan.zhihu.com/p/429720860)]
 
 # 4. GNN library
 
