@@ -61,12 +61,12 @@
 - 论文笔记：Arxiv 2021 Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification [[Paper](https://arxiv.org/abs/2005.11903)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428406637)]
 - 论文笔记：ICML 2021 FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation [[Paper](https://arxiv.org/abs/2102.04925)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428783383)]
 
-## 3.4 FL on GNN (Graphs) - Client Interaction
+## 3.4 FL Based on GNN (Graphs)
 
 - 论文笔记：IJCAI 2021 Decentralized Federated Graph Neural Networks [[Paper](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_20.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430508567)]
-
 - 论文笔记：NIPS 2021 Federated Graph Classification over Non-IID Graphs [[Paper](https://arxiv.org/abs/2106.13423)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430623053)]
 - 论文笔记：ICML 2021 SpreadGNN: Serverless Multi task Federated Learning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2106.02743)] [[Code](https://github.com/FedML-AI/SpreadGNN)] [[Link](https://zhuanlan.zhihu.com/p/429720860)]
+- 论文笔记：NIPS 2021 Subgraph Federated Learning with Missing Neighbor Generation [[Paper](https://arxiv.org/abs/2106.13430)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430789355)]
 
 ## 3.5 FL Sys on Graph
 
