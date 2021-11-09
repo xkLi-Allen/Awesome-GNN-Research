@@ -62,6 +62,7 @@
 - 论文笔记：Arxiv 2021 Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification [[Paper](https://arxiv.org/abs/2005.11903)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428406637)]
 - 论文笔记：ICML 2021 FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation [[Paper](https://arxiv.org/abs/2102.04925)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428783383)]
 - 论文笔记：Arxiv 2021 FedGL: Federated Graph Learning Framework with Global Self-Supervision [[Paper](https://arxiv.org/abs/2105.03170)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431049080)]
+- 论文笔记：PPNA 2021 ASFGNN: Automated Separated-Federated Graph Neural Network [[Paper](https://arxiv.org/abs/2011.03248)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431283541)]
 
 ## 3.4 FL Based on GNN (Graphs)
 
