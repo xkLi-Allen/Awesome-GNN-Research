@@ -69,6 +69,7 @@
 - 论文笔记：NIPS 2021 Federated Graph Classification over Non-IID Graphs [[Paper](https://arxiv.org/abs/2106.13423)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430623053)]
 - 论文笔记：ICML 2021 SpreadGNN: Serverless Multi task Federated Learning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2106.02743)] [[Code](https://github.com/FedML-AI/SpreadGNN)] [[Link](https://zhuanlan.zhihu.com/p/429720860)]
 - 论文笔记：NIPS 2021 Subgraph Federated Learning with Missing Neighbor Generation [[Paper](https://arxiv.org/abs/2106.13430)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430789355)]
+- 论文笔记：ICML 2021 Personalized Federated Learning using Hypernetworks [[Paper](https://arxiv.org/abs/2103.04628)] [[Code](https://github.com/AvivSham/pFedHN)] [[Link](https://zhuanlan.zhihu.com/p/431130945)]
 
 ## 3.5 FL Sys on Graph
 
