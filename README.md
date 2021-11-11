@@ -52,6 +52,8 @@
 
 - 联邦学习综述：Federated Machine Learning: Concept and Applications [[Paper](https://arxiv.org/abs/1902.04885)] [[Link](https://zhuanlan.zhihu.com/p/427770121)]
 - 论文笔记：Arxiv 2021 Federated Graph Learning - A Position Paper [[Paper](https://arxiv.org/abs/2105.11099)] [[Link](https://zhuanlan.zhihu.com/p/431934452)]
+- 基于 GNN 的隐私计算（联邦学习）Review（二）[[Link](https://zhuanlan.zhihu.com/p/432071253)]
+- 基于 GNN 的隐私计算（联邦学习）Review（三）[[Link](https://zhuanlan.zhihu.com/p/432126858)]
 
 ## 3.2 Important Algorithms (Principles and Framework)
 
