@@ -48,45 +48,46 @@
 
 ## 3.1 Summary and Algorithms
 
-- 联邦学习综述：Federated Machine Learning: Concept and Applications [[Paper](https://arxiv.org/abs/1902.04885)] [[Link](https://zhuanlan.zhihu.com/p/427770121)]
-- 论文笔记：Arxiv 2021 Federated Graph Learning - A Position Paper [[Paper](https://arxiv.org/abs/2105.11099)] [[Link](https://zhuanlan.zhihu.com/p/431934452)]
-- 论文笔记：JMLR 2017 Communication-Efficient Learning of Deep Networks from Decentralized Data [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)]
-- 论文笔记：Big Data 2019 SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure [[Paper](https://ieeexplore.ieee.org/abstract/document/9005983)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430953193)] 
+- Federated Machine Learning: Concept and Applications [[Paper](https://arxiv.org/abs/1902.04885)] [[Link](https://zhuanlan.zhihu.com/p/427770121)]
+- Arxiv 2021 Federated Graph Learning - A Position Paper [[Paper](https://arxiv.org/abs/2105.11099)] [[Link](https://zhuanlan.zhihu.com/p/431934452)]
+- JMLR 2017 Communication-Efficient Learning of Deep Networks from Decentralized Data [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)]
+- Big Data 2019 SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure [[Paper](https://ieeexplore.ieee.org/abstract/document/9005983)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430953193)] 
 - 基于 GNN 的隐私计算（联邦学习）Review（二）[[Link](https://zhuanlan.zhihu.com/p/432071253)]
 - 基于 GNN 的隐私计算（联邦学习）Review（三）[[Link](https://zhuanlan.zhihu.com/p/432126858)]
 
 ## 3.2 Inter-graph FL
 
-- 论文笔记：ICML 2021 SpreadGNN: Serverless Multi task Federated Learning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2106.02743)] [[Code](https://github.com/FedML-AI/SpreadGNN)] [[Link](https://zhuanlan.zhihu.com/p/429720860)] ($\star$)
-- 论文笔记：NIPS 2021 Federated Graph Classification over Non-IID Graphs [[Paper](https://arxiv.org/abs/2106.13423)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430623053)]
+- ICML 2021 SpreadGNN: Serverless Multi task Federated Learning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2106.02743)] [[Code](https://github.com/FedML-AI/SpreadGNN)] [[Link](https://zhuanlan.zhihu.com/p/429720860)] ($\star$)
+- NIPS 2021 Federated Graph Classification over Non-IID Graphs [[Paper](https://arxiv.org/abs/2106.13423)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430623053)]
 
 ## 3.3 Horizontal Intra-graph FL
 
-- 论文笔记：NIPS 2021 Subgraph Federated Learning with Missing Neighbor Generation [[Paper](https://arxiv.org/abs/2106.13430)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430789355)]
-- 论文笔记：ICML 2021 FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation [[Paper](https://arxiv.org/abs/2102.04925)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428783383)] ($\star$)
-- 论文笔记：Arxiv 2021 FedGL: Federated Graph Learning Framework with Global Self-Supervision [[Paper](https://arxiv.org/abs/2105.03170)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431049080)] ($\star$)
-- 论文笔记：PPNA 2021 ASFGNN: Automated Separated-Federated Graph Neural Network [[Paper](https://arxiv.org/abs/2011.03248)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431283541)] ($\star$)
-- 论文笔记：TSIPN 2021 Distributed Training of Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2007.06281)] [No code] [[Link](https://zhuanlan.zhihu.com/p/433329525)]
+- NIPS 2021 Subgraph Federated Learning with Missing Neighbor Generation [[Paper](https://arxiv.org/abs/2106.13430)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430789355)]
+- ICML 2021 FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation [[Paper](https://arxiv.org/abs/2102.04925)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428783383)] ($\star$)
+- Arxiv 2021 FedGL: Federated Graph Learning Framework with Global Self-Supervision [[Paper](https://arxiv.org/abs/2105.03170)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431049080)] ($\star$)
+- PPNA 2021 ASFGNN: Automated Separated-Federated Graph Neural Network [[Paper](https://arxiv.org/abs/2011.03248)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431283541)] ($\star$)
+- TSIPN 2021 Distributed Training of Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2007.06281)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/433329525)]
 
 ## 3.4 Vertical Intra-graph FL
 
-- 论文笔记：Arxiv 2021 A Vertical Federated Learning Framework for Graph Convolutional Network [[Paper](https://arxiv.org/abs/2106.11593)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431900470)] ($\star$)
-- 论文笔记：Arxiv 2021 Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification [[Paper](https://arxiv.org/abs/2005.11903)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428406637)] ($\star$)
+- Arxiv 2021 A Vertical Federated Learning Framework for Graph Convolutional Network [[Paper](https://arxiv.org/abs/2106.11593)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431900470)] ($\star$)
+- Arxiv 2021 Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification [[Paper](https://arxiv.org/abs/2005.11903)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428406637)] ($\star$)
 
 ## 3.5 Graph-structured FL
 
-- 论文笔记：IJCAI 2021 Decentralized Federated Graph Neural Networks [[Paper](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_20.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430508567)] ($\star$)
-- 论文笔记：ICML 2021 SpreadGNN: Serverless Multi task Federated Learning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2106.02743)] [[Code](https://github.com/FedML-AI/SpreadGNN)] [[Link](https://zhuanlan.zhihu.com/p/429720860)] ($\star$)
-- 论文笔记：TSIPN 2021 Distributed Training of Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2007.06281)] [No code] [[Link](https://zhuanlan.zhihu.com/p/433329525)]
+- IJCAI 2021 Decentralized Federated Graph Neural Networks [[Paper](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_20.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430508567)] ($\star$)
+- ICML 2021 SpreadGNN: Serverless Multi task Federated Learning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2106.02743)] [[Code](https://github.com/FedML-AI/SpreadGNN)] [[Link](https://zhuanlan.zhihu.com/p/429720860)] ($\star$)
+- TSIPN 2021 Distributed Training of Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2007.06281)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/433329525)]
+- Arxiv 2021 A Graph Federated Architecture with Privacy Preserving Learning [[Paper](https://arxiv.org/abs/2104.13215)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/433728803)] ($ \star$)
 
 ## 3.6 Personalized Federated Learning
 
-- 论文笔记：ICML 2021 Personalized Federated Learning using Hypernetworks [[Paper](https://arxiv.org/abs/2103.04628)] [[Code](https://github.com/AvivSham/pFedHN)] [[Link](https://zhuanlan.zhihu.com/p/431130945)]
-- 论文笔记：Arxiv 2020 GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs [[Paper](https://arxiv.org/abs/2012.04187)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431479904)]
+- ICML 2021 Personalized Federated Learning using Hypernetworks [[Paper](https://arxiv.org/abs/2103.04628)] [[Code](https://github.com/AvivSham/pFedHN)] [[Link](https://zhuanlan.zhihu.com/p/431130945)]
+- Arxiv 2020 GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs [[Paper](https://arxiv.org/abs/2012.04187)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431479904)]
 
 ## 3.7 GraphFL Benchmark System
 
-- 论文笔记：ICLR 2021 FedGraphNN: A Federated Learning Benchmark System for Graph Neural Networks [[Paper](https://arxiv.org/abs/2104.07145)] [[Code](https://github.com/FedML-AI/FedGraphNN)] [[Link](https://zhuanlan.zhihu.com/p/429220636)]
+- ICLR 2021 FedGraphNN: A Federated Learning Benchmark System for Graph Neural Networks [[Paper](https://arxiv.org/abs/2104.07145)] [[Code](https://github.com/FedML-AI/FedGraphNN)] [[Link](https://zhuanlan.zhihu.com/p/429220636)]
 
 # 4. GNN library
 
