@@ -88,6 +88,7 @@
 - Arxiv 2021 FedGL: Federated Graph Learning Framework with Global Self-Supervision [[Paper](https://arxiv.org/abs/2105.03170)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431049080)] ($\star$)
 - PPNA 2021 ASFGNN: Automated Separated-Federated Graph Neural Network [[Paper](https://arxiv.org/abs/2011.03248)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431283541)] ($\star$)
 - TSIPN 2021 Distributed Training of Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2007.06281)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/433329525)]
+- KDD 2021 Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling [[Paper](https://arxiv.org/abs/2106.05223)] [[Code](https://github.com/mengcz13/KDD2021_CNFGNN)] [[Link](https://zhuanlan.zhihu.com/p/434839878)]
 
 ## 3.4 Vertical Intra-graph FL
 
@@ -100,6 +101,7 @@
 - ICML 2021 SpreadGNN: Serverless Multi task Federated Learning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2106.02743)] [[Code](https://github.com/FedML-AI/SpreadGNN)] [[Link](https://zhuanlan.zhihu.com/p/429720860)] ($\star$)
 - TSIPN 2021 Distributed Training of Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2007.06281)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/433329525)]
 - Arxiv 2021 A Graph Federated Architecture with Privacy Preserving Learning [[Paper](https://arxiv.org/abs/2104.13215)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/433728803)] ($ \star$)
+- KDD 2021 Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling [[Paper](https://arxiv.org/abs/2106.05223)] [[Code](https://github.com/mengcz13/KDD2021_CNFGNN)] [[Link](https://zhuanlan.zhihu.com/p/434839878)]
 
 ## 3.6 Personalized Federated Learning
 
