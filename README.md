@@ -73,6 +73,7 @@
 - Arxiv 2021 Federated Graph Learning - A Position Paper [[Paper](https://arxiv.org/abs/2105.11099)] [[Link](https://zhuanlan.zhihu.com/p/431934452)]
 - JMLR 2017 Communication-Efficient Learning of Deep Networks from Decentralized Data [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)]
 - Big Data 2019 SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure [[Paper](https://ieeexplore.ieee.org/abstract/document/9005983)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430953193)] 
+- Arxiv 2019 Detailed comparison of communication efficiency of split learning and federated learning [[Paper](https://arxiv.org/pdf/1909.09145.pdf)] [[Link](https://zhuanlan.zhihu.com/p/435255850)]
 - 基于 GNN 的隐私计算（联邦学习）Review（二）[[Link](https://zhuanlan.zhihu.com/p/432071253)]
 - 基于 GNN 的隐私计算（联邦学习）Review（三）[[Link](https://zhuanlan.zhihu.com/p/432126858)]
 
