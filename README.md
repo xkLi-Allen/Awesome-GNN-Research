@@ -84,7 +84,7 @@
 
 ## 3.3 Horizontal Intra-graph FL
 
-- NIPS 2021 Subgraph Federated Learning with Missing Neighbor Generation [[Paper](https://arxiv.org/abs/2106.13430)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430789355)]
+- NIPS 2021 Subgraph Federated Learning with Missing Neighbor Generation [[Paper](https://arxiv.org/abs/2106.13430)] [[Code](https://github.com/zkhku/fedsage)] [[Link](https://zhuanlan.zhihu.com/p/430789355)]
 - ICML 2021 FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation [[Paper](https://arxiv.org/abs/2102.04925)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/428783383)] ($\star$)
 - Arxiv 2021 FedGL: Federated Graph Learning Framework with Global Self-Supervision [[Paper](https://arxiv.org/abs/2105.03170)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431049080)] ($\star$)
 - PPNA 2021 ASFGNN: Automated Separated-Federated Graph Neural Network [[Paper](https://arxiv.org/abs/2011.03248)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431283541)] ($\star$)
