@@ -69,11 +69,8 @@
 
 ## 3.1 Summary and Algorithms
 
-- Federated Machine Learning: Concept and Applications [[Paper](https://arxiv.org/abs/1902.04885)] [[Link](https://zhuanlan.zhihu.com/p/427770121)]
 - Arxiv 2021 Federated Graph Learning - A Position Paper [[Paper](https://arxiv.org/abs/2105.11099)] [[Link](https://zhuanlan.zhihu.com/p/431934452)]
-- JMLR 2017 Communication-Efficient Learning of Deep Networks from Decentralized Data [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)]
 - Big Data 2019 SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure [[Paper](https://ieeexplore.ieee.org/abstract/document/9005983)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430953193)] 
-- Arxiv 2019 Detailed comparison of communication efficiency of split learning and federated learning [[Paper](https://arxiv.org/pdf/1909.09145.pdf)] [[Link](https://zhuanlan.zhihu.com/p/435255850)]
 - 基于 GNN 的隐私计算（联邦学习）Review（二）[[Link](https://zhuanlan.zhihu.com/p/432071253)]
 - 基于 GNN 的隐私计算（联邦学习）Review（三）[[Link](https://zhuanlan.zhihu.com/p/432126858)]
 
@@ -114,7 +111,22 @@
 
 - ICLR 2021 FedGraphNN: A Federated Learning Benchmark System for Graph Neural Networks [[Paper](https://arxiv.org/abs/2104.07145)] [[Code](https://github.com/FedML-AI/FedGraphNN)] [[Link](https://zhuanlan.zhihu.com/p/429220636)]
 
-# 4. GNN library
+# 4. Federated Learning
+
+- Federated Machine Learning: Concept and Applications [[Paper](https://arxiv.org/abs/1902.04885)] [[Link](https://zhuanlan.zhihu.com/p/427770121)]
+- JMLR 2017 Communication-Efficient Learning of Deep Networks from Decentralized Data [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)]
+
+## 4.1 Non-IID
+
+- Arxiv 2021 Federated Learning on Non-IID Data Silos: An Experimental Study [[Paper](https://arxiv.org/abs/2102.02079)] [[Code](https://github.com/Xtra-Computing/NIID-Bench)] [[Link](https://zhuanlan.zhihu.com/p/439561676)]
+
+## 4.2 Communication Efficiency
+
+Arxiv 2019 Detailed comparison of communication efficiency of split learning and federated learning [[Paper](https://arxiv.org/pdf/1909.09145.pdf)] [[Link](https://zhuanlan.zhihu.com/p/435255850)]
+
+
+
+# 5. GNN library
 
 - Graph library -- PyG、GarphGallery [[Link](https://zhuanlan.zhihu.com/p/420587332)]
 - Graph library -- DIG、AutoGL、CogDL [[Link](https://zhuanlan.zhihu.com/p/422082239)]
