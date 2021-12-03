@@ -101,6 +101,7 @@
 - TSIPN 2021 Distributed Training of Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2007.06281)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/433329525)]
 - Arxiv 2021 A Graph Federated Architecture with Privacy Preserving Learning [[Paper](https://arxiv.org/abs/2104.13215)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/433728803)] ($ \star$)
 - KDD 2021 Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling [[Paper](https://arxiv.org/abs/2106.05223)] [[Code](https://github.com/mengcz13/KDD2021_CNFGNN)] [[Link](https://zhuanlan.zhihu.com/p/434839878)]
+- CVPR 2021 Cluster-driven Graph Federated Learning over Multiple Domains [[Paper](https://arxiv.org/abs/2104.14628)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/440527314)]
 
 ## 3.6 Personalized Federated Learning
 
