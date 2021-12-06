@@ -78,6 +78,7 @@
 
 - ICML 2021 SpreadGNN: Serverless Multi task Federated Learning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2106.02743)] [[Code](https://github.com/FedML-AI/SpreadGNN)] [[Link](https://zhuanlan.zhihu.com/p/429720860)] ($\star$) ▲
 - NIPS 2021 Federated Graph Classification over Non-IID Graphs [[Paper](https://arxiv.org/abs/2106.13423)] [[Code](https://github.com/Oxfordblue7/GCFL)] [[Link](https://zhuanlan.zhihu.com/p/430623053)] √
+- Arxiv 2020 Federated Dynamic GNN with Secure Aggregation [[Paper](https://arxiv.org/abs/2009.07351)] [No Code] [[Link](https://www.zhihu.com/creator/manage/creation/all)] ($ \star$) ■
 
 ## 3.3 Horizontal Intra-graph FL
 
