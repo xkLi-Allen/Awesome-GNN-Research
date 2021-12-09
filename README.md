@@ -118,11 +118,11 @@
 
 - Federated Machine Learning: Concept and Applications [[Paper](https://arxiv.org/abs/1902.04885)] [[Link](https://zhuanlan.zhihu.com/p/427770121)]
 - JMLR 2017 Communication-Efficient Learning of Deep Networks from Decentralized Data [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)] FedAvg √
-- AAAI 2021 Addressing Class Imbalance in Federated Learning [[Paper](https://arxiv.org/abs/2008.06217)] [[Code](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL)] [[Link](https://zhuanlan.zhihu.com/p/443009189)]
 
 ## 4.1 Non-IID
 
 - Arxiv 2021 Federated Learning on Non-IID Data Silos: An Experimental Study [[Paper](https://arxiv.org/abs/2102.02079)] [[Code](https://github.com/Xtra-Computing/NIID-Bench)] [[Link](https://zhuanlan.zhihu.com/p/439561676)] √
+- AAAI 2021 Addressing Class Imbalance in Federated Learning [[Paper](https://arxiv.org/abs/2008.06217)] [[Code](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL)] [[Link](https://zhuanlan.zhihu.com/p/443009189)] √
 
 ## 4.2 Communication Efficiency
 
