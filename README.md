@@ -4,6 +4,10 @@
 
 # 1. Scalable GNN
 
+## 1.0 GNN library
+
+- Arxiv 2021 Graph4Rec: A Universal Toolkit with Graph Neural Networks for Recommender Systems [[Paper](https://arxiv.org/abs/2112.01035)] [[Code](https://github.com/PaddlePaddle/PGL/tree/main/apps/Graph4Rec)] [[Link](https://zhuanlan.zhihu.com/p/443243204)]
+
 ## 1.1 Efficient and Scalable GNN Architectures
 
 - Arxiv 2021 GIST: Distributed Training for Large-Scale Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2102.10424)] [[Code](https://github.com/wolfecameron/GIST)] [[Link](https://zhuanlan.zhihu.com/p/433427134)]
