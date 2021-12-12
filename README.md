@@ -127,6 +127,7 @@
 
 - Arxiv 2021 Federated Learning on Non-IID Data Silos: An Experimental Study [[Paper](https://arxiv.org/abs/2102.02079)] [[Code](https://github.com/Xtra-Computing/NIID-Bench)] [[Link](https://zhuanlan.zhihu.com/p/439561676)] √
 - AAAI 2021 Addressing Class Imbalance in Federated Learning [[Paper](https://arxiv.org/abs/2008.06217)] [[Code](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL)] [[Link](https://zhuanlan.zhihu.com/p/443009189)] √
+- Arxiv 2020 Non-IID Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.12386)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444278767)] ▲
 
 ## 4.2 Communication Efficiency
 
