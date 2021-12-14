@@ -16,6 +16,7 @@
 - ICLR 2019 Predict Then Propagate: Graph Neural Networks Meet Personalized PageRank [[Paper](https://arxiv.org/abs/1810.05997v5)] [[Code](https://github.com/benedekrozemberczki/APPNP)] [[Link](https://zhuanlan.zhihu.com/p/419843669)]
 - Arxiv 2021 Graph Attention Multi-Layer Perceptron [[Paper](https://arxiv.org/abs/2108.10097)] [[Code](https://github.com/PKU-DAIR/GAMLP)] [[Link](https://zhuanlan.zhihu.com/p/426485085)]
 - Arxiv 2020 Arxiv 2020 Non-Local Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.14612v1)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444884642)] √
+- WSDM 2021 GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks [[Paper](https://arxiv.org/abs/2103.08826)] [[Code](https://github.com/TianxiangZhao/GraphSmote)] [[Link](https://zhuanlan.zhihu.com/p/445035949)] √
 
 ## 1.2 Large-scale Graphs and Sampling Techniques
 
