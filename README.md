@@ -46,6 +46,7 @@
 - arXiv'20 Non-Local Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.14612v1)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444884642)] √
 - WSDM'21 GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks [[Paper](https://arxiv.org/abs/2103.08826)] [[Code](https://github.com/TianxiangZhao/GraphSmote)] [[Link](https://zhuanlan.zhihu.com/p/445035949)] √
 - IJCAI'21 Multi-Class Imbalanced Graph Convolutional Network Learning [[Paper](https://www.ijcai.org/proceedings/2020/0398.pdf)] [[Code](https://github.com/codeshareabc/DRGCN)] [[Link](https://zhuanlan.zhihu.com/p/446314982)]  √
+- WWW'21 Graph Contrastive Learning with Adaptive Augmentation [[Paper](https://arxiv.org/abs/2010.14945)] [[Code](https://github.com/CRIPAC-DIG/GCA)] [[Link](https://zhuanlan.zhihu.com/p/446868435)] √
 
 # 2. GNN + (Local) Differential Privacy
 
