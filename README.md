@@ -15,6 +15,8 @@
 - ICML'19 Simplifying Graph Convolutional Networks [[Paper](https://arxiv.org/abs/1902.07153v1)] [[Code](https://github.com/Tiiiger/SGC)] [[Link](https://zhuanlan.zhihu.com/p/411236675)]
 - ICLR'19 Predict Then Propagate: Graph Neural Networks Meet Personalized PageRank [[Paper](https://arxiv.org/abs/1810.05997v5)] [[Code](https://github.com/benedekrozemberczki/APPNP)] [[Link](https://zhuanlan.zhihu.com/p/419843669)]
 - arXiv'21 Graph Attention Multi-Layer Perceptron [[Paper](https://arxiv.org/abs/2108.10097)] [[Code](https://github.com/PKU-DAIR/GAMLP)] [[Link](https://zhuanlan.zhihu.com/p/426485085)]
+- NeurIPS‘21 Node Dependent Local Smoothing for Scalable Graph Learning [[Paper](https://arxiv.org/abs/2110.14377)] [[Code](https://github.com/zwt233/NDLS)] [[Link](https://zhuanlan.zhihu.com/p/445986238)]
+- ICLR'19 How Powerful are Graph Neural Networks? [[Paper](https://arxiv.org/abs/1810.00826)] [[Code](https://github.com/weihua916/powerful-gnns)] [[Link](https://zhuanlan.zhihu.com/p/464818620)]
 
 ## 1.2 Large-scale Graphs and Sampling Techniques
 
