@@ -17,6 +17,7 @@
 - arXiv'21 Graph Attention Multi-Layer Perceptron [[Paper](https://arxiv.org/abs/2108.10097)] [[Code](https://github.com/PKU-DAIR/GAMLP)] [[Link](https://zhuanlan.zhihu.com/p/426485085)]
 - NeurIPS‘21 Node Dependent Local Smoothing for Scalable Graph Learning [[Paper](https://arxiv.org/abs/2110.14377)] [[Code](https://github.com/zwt233/NDLS)] [[Link](https://zhuanlan.zhihu.com/p/445986238)]
 - ICLR'19 How Powerful are Graph Neural Networks? [[Paper](https://arxiv.org/abs/1810.00826)] [[Code](https://github.com/weihua916/powerful-gnns)] [[Link](https://zhuanlan.zhihu.com/p/464818620)]
+- ICLR'22 A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" [[Paper](https://openreview.net/forum?id=uxgg9o7bI_3)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/465200994)]
 
 ## 1.2 Large-scale Graphs and Sampling Techniques
 
