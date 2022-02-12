@@ -50,6 +50,7 @@
 - WSDM'21 GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks [[Paper](https://arxiv.org/abs/2103.08826)] [[Code](https://github.com/TianxiangZhao/GraphSmote)] [[Link](https://zhuanlan.zhihu.com/p/445035949)] √
 - IJCAI'21 Multi-Class Imbalanced Graph Convolutional Network Learning [[Paper](https://www.ijcai.org/proceedings/2020/0398.pdf)] [[Code](https://github.com/codeshareabc/DRGCN)] [[Link](https://zhuanlan.zhihu.com/p/446314982)]  √
 - WWW'21 Graph Contrastive Learning with Adaptive Augmentation [[Paper](https://arxiv.org/abs/2010.14945)] [[Code](https://github.com/CRIPAC-DIG/GCA)] [[Link](https://zhuanlan.zhihu.com/p/446868435)] √
+- AAAI'21 Data Augmentation for Graph Neural Networks [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf)] [[Code](https://github.com/zhao-tong/GAug)] [[Link](https://zhuanlan.zhihu.com/p/466617745)] √
 
 # 2. GNN + (Local) Differential Privacy
 
@@ -143,13 +144,7 @@
 
 - arXiv'19 Detailed comparison of communication efficiency of split learning and federated learning [[Paper](https://arxiv.org/pdf/1909.09145.pdf)] [[Link](https://zhuanlan.zhihu.com/p/435255850)] ▲
 
-
-
-# 5. Graph Augmentation
-
-- AAAI'21 Data Augmentation for Graph Neural Networks [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf)] [[Code](https://github.com/zhao-tong/GAug)] [[Link](https://zhuanlan.zhihu.com/p/466617745)] √
-
-# 6. GNN library
+# 5. GNN library
 
 - Graph library -- PyG、GarphGallery [[Link](https://zhuanlan.zhihu.com/p/420587332)]
 - Graph library -- DIG、AutoGL、CogDL [[Link](https://zhuanlan.zhihu.com/p/422082239)]
