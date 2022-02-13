@@ -51,6 +51,7 @@
 - IJCAI'21 Multi-Class Imbalanced Graph Convolutional Network Learning [[Paper](https://www.ijcai.org/proceedings/2020/0398.pdf)] [[Code](https://github.com/codeshareabc/DRGCN)] [[Link](https://zhuanlan.zhihu.com/p/446314982)]  √
 - WWW'21 Graph Contrastive Learning with Adaptive Augmentation [[Paper](https://arxiv.org/abs/2010.14945)] [[Code](https://github.com/CRIPAC-DIG/GCA)] [[Link](https://zhuanlan.zhihu.com/p/446868435)] √
 - AAAI'21 Data Augmentation for Graph Neural Networks [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf)] [[Code](https://github.com/zhao-tong/GAug)] [[Link](https://zhuanlan.zhihu.com/p/466617745)] √
+- AAAI'22 Regularizing Graph Neural Networks via Consistency-Diversity Graph Augmentations [[Paper](http://shichuan.org/doc/126.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/466661027)] ■
 
 # 2. GNN + (Local) Differential Privacy
 
