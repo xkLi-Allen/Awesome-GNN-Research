@@ -53,7 +53,8 @@
 - AAAI'21 Data Augmentation for Graph Neural Networks [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf)] [[Code](https://github.com/zhao-tong/GAug)] [[Link](https://zhuanlan.zhihu.com/p/466617745)] √
 - AAAI'22 Regularizing Graph Neural Networks via Consistency-Diversity Graph Augmentations [[Paper](http://shichuan.org/doc/126.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/466661027)] ■
 - KDD'20 NodeAug: Semi-Supervised Node Classification with Data Augmentation [[Paper](https://bhooi.github.io/papers/nodeaug_kdd20.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/466885671)] ■
-- AAAI'21 GraphMix: Improved Training of GNNs for Semi-Supervised Learning [[Paper](https://arxiv.org/abs/1909.11715)] [[Code](https://github.com/vikasverma1077/GraphMix)] [[Link](https://zhuanlan.zhihu.com/p/467389235)]
+- AAAI'21 GraphMix: Improved Training of GNNs for Semi-Supervised Learning [[Paper](https://arxiv.org/abs/1909.11715)] [[Code](https://github.com/vikasverma1077/GraphMix)] [[Link](https://zhuanlan.zhihu.com/p/467389235)] ■
+- arXiv'21 Local Augmentation for Graph Neural Networks [[Paper](https://arxiv.org/pdf/2109.03856.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/467800945)] ■
 
 # 2. GNN + (Local) Differential Privacy
 
