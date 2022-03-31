@@ -18,6 +18,7 @@
 - NeurIPS‘21 Node Dependent Local Smoothing for Scalable Graph Learning [[Paper](https://arxiv.org/abs/2110.14377)] [[Code](https://github.com/zwt233/NDLS)] [[Link](https://zhuanlan.zhihu.com/p/445986238)]
 - ICLR'19 How Powerful are Graph Neural Networks? [[Paper](https://arxiv.org/abs/1810.00826)] [[Code](https://github.com/weihua916/powerful-gnns)] [[Link](https://zhuanlan.zhihu.com/p/464818620)] √
 - ICLR'22 A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" [[Paper](https://openreview.net/forum?id=uxgg9o7bI_3)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/465200994)] √
+- arXiv'20 Scalable Graph Neural Networks for Heterogeneous Graphs [[Paper](https://arxiv.org/abs/2011.09679)] [[Code](https://github.com/facebookresearch/NARS)] [[Link](https://zhuanlan.zhihu.com/p/490723967)]
 
 ## 1.2 Large-scale Graphs and Sampling Techniques
 
