@@ -2,6 +2,11 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/XunKaiLi/Awesome-GNN-Research)
 
+# Useful Survey
+
+- arXiv‘22 Data Augmentation for Deep Graph Learning: A Survey  [[Paper](https://arxiv.org/pdf/2202.08235.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/492146847)]
+- arXiv'22 A Survey on Graph Structure Learning: Progress and Opportunities [[Paper](https://arxiv.org/pdf/2103.03036.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/470614896)]
+
 # 1. Scalable GNN
 
 ## 1.0 GNN library
@@ -47,7 +52,6 @@
 
 ## 1.9 Non-IID and Graph Data Adaptive Augmentation
 
-- arXiv'22 A Survey on Graph Structure Learning: Progress and Opportunities [[Paper](https://arxiv.org/pdf/2103.03036.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/470614896)]
 - arXiv'20 Non-Local Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.14612v1)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444884642)] √
 - WSDM'21 GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks [[Paper](https://arxiv.org/abs/2103.08826)] [[Code](https://github.com/TianxiangZhao/GraphSmote)] [[Link](https://zhuanlan.zhihu.com/p/445035949)] √
 - IJCAI'21 Multi-Class Imbalanced Graph Convolutional Network Learning [[Paper](https://www.ijcai.org/proceedings/2020/0398.pdf)] [[Code](https://github.com/codeshareabc/DRGCN)] [[Link](https://zhuanlan.zhihu.com/p/446314982)]  √
