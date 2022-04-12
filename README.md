@@ -133,6 +133,7 @@
 ## 3.6 Personalized Federated Learning
 
 - ICML'21 Personalized Federated Learning using Hypernetworks [[Paper](https://arxiv.org/abs/2103.04628)] [[Code](https://github.com/AvivSham/pFedHN)] [[Link](https://zhuanlan.zhihu.com/p/431130945)] ▲
+- NeurIPS'19 Think Locally, Act Globally: Federated Learning with Local and Global Representations [[Paper](https://arxiv.org/pdf/2001.01523.pdf)] [[Code](https://github.com/pliang279/LG-FedAvg)] [[Link](https://zhuanlan.zhihu.com/p/497030361)]
 - arXiv'20 GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs [[Paper](https://arxiv.org/abs/2012.04187)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431479904)] ▲
 
 ## 3.7 GraphFL Benchmark System
