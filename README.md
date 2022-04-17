@@ -144,6 +144,7 @@
 
 - Federated Machine Learning: Concept and Applications [[Paper](https://arxiv.org/abs/1902.04885)] [[Link](https://zhuanlan.zhihu.com/p/427770121)]
 - JMLR'17 Communication-Efficient Learning of Deep Networks from Decentralized Data [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)] FedAvg √
+- arXiv'20 Adaptive Personalized Federated Learning [[Paper](https://arxiv.org/abs/2003.13461)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/497269102)]
 
 ## 4.1 Non-IID
 
