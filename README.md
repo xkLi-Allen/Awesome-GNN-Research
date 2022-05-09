@@ -24,6 +24,7 @@
 - ICLR'19 How Powerful are Graph Neural Networks? [[Paper](https://arxiv.org/abs/1810.00826)] [[Code](https://github.com/weihua916/powerful-gnns)] [[Link](https://zhuanlan.zhihu.com/p/464818620)] √
 - ICLR'22 A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" [[Paper](https://openreview.net/forum?id=uxgg9o7bI_3)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/465200994)] √
 - arXiv'20 Scalable Graph Neural Networks for Heterogeneous Graphs [[Paper](https://arxiv.org/abs/2011.09679)] [[Code](https://github.com/facebookresearch/NARS)] [[Link](https://zhuanlan.zhihu.com/p/490723967)]
+- arXiv'20 Unifying Graph Convolutional Neural Networks and Label Propagation [[Paper](https://arxiv.org/abs/2002.06755)] [[Code](https://github.com/liu6zijian/GCN-LPA-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/501120937)]
 
 ## 1.2 Large-scale Graphs and Sampling Techniques
 
@@ -32,6 +33,8 @@
 - arXiv'21 GIST: Distributed Training for Large-Scale Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2102.10424)] [[Code](https://github.com/wolfecameron/GIST)] [[Link](https://zhuanlan.zhihu.com/p/433427134)]
 
 ## 1.3 Knowledge Distillation for GNNs
+
+- ICLR'22 Cold Brew Distilling Graph Node Representations with Incomplete or Missing Neighborhoods [[Paper](https://arxiv.org/abs/2111.04840)] [[Code](https://github.com/amazon-research/gnn-tail-generalization)] [[Link](https://zhuanlan.zhihu.com/p/511394613)]
 
 ## 1.4 Neural Architecture Search for GNNs
 
