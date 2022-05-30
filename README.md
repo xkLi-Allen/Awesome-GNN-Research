@@ -6,35 +6,29 @@
 
 - arXiv‘22 Data Augmentation for Deep Graph Learning: A Survey  [[Paper](https://arxiv.org/pdf/2202.08235.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/492146847)]
 - arXiv'22 A Survey on Graph Structure Learning: Progress and Opportunities [[Paper](https://arxiv.org/pdf/2103.03036.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/470614896)]
-
 - arXiv'21 Graph4Rec: A Universal Toolkit with Graph Neural Networks for Recommender Systems [[Paper](https://arxiv.org/abs/2112.01035)] [[Code](https://github.com/PaddlePaddle/PGL/tree/main/apps/Graph4Rec)] [[Link](https://zhuanlan.zhihu.com/p/443243204)]
-
 - arXiv'21 GIST: Distributed Training for Large-Scale Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2102.10424)] [[Code](https://github.com/wolfecameron/GIST)] [[Link](https://zhuanlan.zhihu.com/p/433427134)]
 - arXiv'21 Graph Learning with 1D Convolutions on Random Walks [[Paper](https://arxiv.org/abs/2102.08786)] [[Code](https://github.com/toenshoff/CRaWl)] [[Link](https://zhuanlan.zhihu.com/p/434173732)]
 - ICML'19 Simplifying Graph Convolutional Networks [[Paper](https://arxiv.org/abs/1902.07153v1)] [[Code](https://github.com/Tiiiger/SGC)] [[Link](https://zhuanlan.zhihu.com/p/411236675)]
 - ICLR'19 Predict Then Propagate: Graph Neural Networks Meet Personalized PageRank [[Paper](https://arxiv.org/abs/1810.05997v5)] [[Code](https://github.com/benedekrozemberczki/APPNP)] [[Link](https://zhuanlan.zhihu.com/p/419843669)]
 - arXiv'21 Graph Attention Multi-Layer Perceptron [[Paper](https://arxiv.org/abs/2108.10097)] [[Code](https://github.com/PKU-DAIR/GAMLP)] [[Link](https://zhuanlan.zhihu.com/p/426485085)]
 - NeurIPS‘21 Node Dependent Local Smoothing for Scalable Graph Learning [[Paper](https://arxiv.org/abs/2110.14377)] [[Code](https://github.com/zwt233/NDLS)] [[Link](https://zhuanlan.zhihu.com/p/445986238)]
-- ICLR'19 How Powerful are Graph Neural Networks? [[Paper](https://arxiv.org/abs/1810.00826)] [[Code](https://github.com/weihua916/powerful-gnns)] [[Link](https://zhuanlan.zhihu.com/p/464818620)] √
-- ICLR'22 A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" [[Paper](https://openreview.net/forum?id=uxgg9o7bI_3)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/465200994)] √
+- ICLR'19 How Powerful are Graph Neural Networks? [[Paper](https://arxiv.org/abs/1810.00826)] [[Code](https://github.com/weihua916/powerful-gnns)] [[Link](https://zhuanlan.zhihu.com/p/464818620)] 
+- ICLR'22 A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" [[Paper](https://openreview.net/forum?id=uxgg9o7bI_3)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/465200994)] 
 - arXiv'20 Scalable Graph Neural Networks for Heterogeneous Graphs [[Paper](https://arxiv.org/abs/2011.09679)] [[Code](https://github.com/facebookresearch/NARS)] [[Link](https://zhuanlan.zhihu.com/p/490723967)]
 - arXiv'20 Unifying Graph Convolutional Neural Networks and Label Propagation [[Paper](https://arxiv.org/abs/2002.06755)] [[Code](https://github.com/liu6zijian/GCN-LPA-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/501120937)]
-
 - NeurIPS'17 Inductive Representation Learning on Large Graphs [[Paper](https://arxiv.org/abs/1706.02216v2)] [[Code](https://github.com/williamleif/GraphSAGE)] [[Link](https://zhuanlan.zhihu.com/p/411612848)]
 - ICLR'18 FASTGCN: Fast Learning With Graph Convolutional Networks Via Importance Sampling [[Paper](https://arxiv.org/abs/1801.10247)] [[Code](https://github.com/matenure/FastGCN)] [[Link](https://zhuanlan.zhihu.com/p/412020874)]
 - arXiv'21 GIST: Distributed Training for Large-Scale Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2102.10424)] [[Code](https://github.com/wolfecameron/GIST)] [[Link](https://zhuanlan.zhihu.com/p/433427134)]
-
 - ICLR'22 Cold Brew Distilling Graph Node Representations with Incomplete or Missing Neighborhoods [[Paper](https://arxiv.org/abs/2111.04840)] [[Code](https://github.com/amazon-research/gnn-tail-generalization)] [[Link](https://zhuanlan.zhihu.com/p/511394613)]
-
 - KDD'14 DeepWalk: Online Learning of Social Representations [[Paper](https://arxiv.org/abs/1403.6652)] [[Code](https://github.com/phanein/deepwalk)] [[Link](https://zhuanlan.zhihu.com/p/412713441)]
 - WWW'15 LINE: Large-scale Information Network Embedding [[Paper](https://arxiv.org/abs/1503.03578)] [[Code](https://github.com/snowkylin/line)] [[Link](https://zhuanlan.zhihu.com/p/412787557)]
 - KDD'16 node2vec: Scalable Feature Learning for Networks [[Paper](https://arxiv.org/abs/1607.00653)] [[Code](https://github.com/eliorc/node2vec)] [[Link](https://zhuanlan.zhihu.com/p/413046898)]
 - NeurIPS'13  Distributed Representations of Words and Phrases and their Compositionality [[Paper](https://arxiv.org/abs/1310.4546)] [[Code](https://github.com/brijml/mikolov_word2vec)] [[Link](https://zhuanlan.zhihu.com/p/413169135)]
 - KDD'16 Structural Deep Network Embedding [[Paper](http://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)] [[Code](https://github.com/suanrong/SDNE)] [[Link](https://zhuanlan.zhihu.com/p/413468532)]
 - arXiv'21 Graph Learning with 1D Convolutions on Random Walks [[Paper](https://arxiv.org/abs/2102.08786)] [[Code](https://github.com/toenshoff/CRaWl)] [[Link](https://zhuanlan.zhihu.com/p/434173732)]
-
 - arXiv'20 Non-Local Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.14612v1)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444884642)] 
-- WSDM'21 GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks [[Paper](https://arxiv.org/abs/2103.08826)] [[Code](https://github.com/TianxiangZhao/GraphSmote)] [[Link](https://zhuanlan.zhihu.com/p/445035949)] √
+- WSDM'21 GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks [[Paper](https://arxiv.org/abs/2103.08826)] [[Code](https://github.com/TianxiangZhao/GraphSmote)] [[Link](https://zhuanlan.zhihu.com/p/445035949)] 
 - IJCAI'21 Multi-Class Imbalanced Graph Convolutional Network Learning [[Paper](https://www.ijcai.org/proceedings/2020/0398.pdf)] [[Code](https://github.com/codeshareabc/DRGCN)] [[Link](https://zhuanlan.zhihu.com/p/446314982)]  
 - WWW'21 Graph Contrastive Learning with Adaptive Augmentation [[Paper](https://arxiv.org/abs/2010.14945)] [[Code](https://github.com/CRIPAC-DIG/GCA)] [[Link](https://zhuanlan.zhihu.com/p/446868435)] 
 - AAAI'21 Data Augmentation for Graph Neural Networks [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf)] [[Code](https://github.com/zhao-tong/GAug)] [[Link](https://zhuanlan.zhihu.com/p/466617745)] 
@@ -43,6 +37,7 @@
 - AAAI'21 GraphMix: Improved Training of GNNs for Semi-Supervised Learning [[Paper](https://arxiv.org/abs/1909.11715)] [[Code](https://github.com/vikasverma1077/GraphMix)] [[Link](https://zhuanlan.zhihu.com/p/467389235)] 
 - arXiv'21 Local Augmentation for Graph Neural Networks [[Paper](https://arxiv.org/pdf/2109.03856.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/467800945)] 
 - CVPR'21 Bi-GCN: Binary Graph Convolutional Network [[Paper](https://arxiv.org/abs/2010.07565)] [[Code](https://github.com/bywmm/Bi-GCN)] [[Link](https://zhuanlan.zhihu.com/p/520825504)]
+- NeurIPS’21 [[Paper](https://link.zhihu.com/?target=https%3A//proceedings.neurips.cc/paper/2021/file/eb55e369affa90f77dd7dc9e2cd33b16-Paper.pdf)] [[Code](https://github.com/GentleZhu/Shift-Robust-GNNs)] [[Link](https://zhuanlan.zhihu.com/p/522066981)]
 
 # 2. Privacy GNN
 
