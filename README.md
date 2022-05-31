@@ -37,7 +37,8 @@
 - AAAI'21 GraphMix: Improved Training of GNNs for Semi-Supervised Learning [[Paper](https://arxiv.org/abs/1909.11715)] [[Code](https://github.com/vikasverma1077/GraphMix)] [[Link](https://zhuanlan.zhihu.com/p/467389235)] 
 - arXiv'21 Local Augmentation for Graph Neural Networks [[Paper](https://arxiv.org/pdf/2109.03856.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/467800945)] 
 - CVPR'21 Bi-GCN: Binary Graph Convolutional Network [[Paper](https://arxiv.org/abs/2010.07565)] [[Code](https://github.com/bywmm/Bi-GCN)] [[Link](https://zhuanlan.zhihu.com/p/520825504)]
-- NeurIPS’21 [[Paper](https://link.zhihu.com/?target=https%3A//proceedings.neurips.cc/paper/2021/file/eb55e369affa90f77dd7dc9e2cd33b16-Paper.pdf)] [[Code](https://github.com/GentleZhu/Shift-Robust-GNNs)] [[Link](https://zhuanlan.zhihu.com/p/522066981)]
+- NeurIPS’21 Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training Data [[Paper](https://link.zhihu.com/?target=https%3A//proceedings.neurips.cc/paper/2021/file/eb55e369affa90f77dd7dc9e2cd33b16-Paper.pdf)] [[Code](https://github.com/GentleZhu/Shift-Robust-GNNs)] [[Link](https://zhuanlan.zhihu.com/p/522066981)]
+- IJCAI'21 On Self-Distilling Graph Neural Network [[Paper](https://arxiv.org/abs/2011.02255)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/522345993)]
 
 # 2. Privacy GNN
 
