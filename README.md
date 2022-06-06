@@ -43,6 +43,7 @@
 - ICLR'22 Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation [[Paper](https://arxiv.org/abs/2110.08727)] [[Code](https://github.com/snap-research/graphless-neural-networks)] [[Link](https://zhuanlan.zhihu.com/p/523383588)]
 - WWW'21  Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework  [[Paper](https://arxiv.org/abs/2103.02885)] [[Code](https://github.com/BUPT-GAMMA/CPF)] [[Link](https://zhuanlan.zhihu.com/p/523829567)]
 - SIGMOD'20 Reliable Data Distillation on Graph Convolutional Network [[Paper](http://olivier.ruas.free.fr/papers/SIGMOD20.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/524706697)]
+- KDD'21 ROD: Reception-aware Online Distillation for Sparse Graphs [[Paper](https://arxiv.org/pdf/2107.11789.pdf)] [[Code](https://github.com/zwt233/ROD)] [[Link](https://zhuanlan.zhihu.com/p/524839956)]
 
 # 2. Privacy GNN
 
