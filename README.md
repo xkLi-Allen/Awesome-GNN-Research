@@ -41,6 +41,8 @@
 - IJCAI'21 On Self-Distilling Graph Neural Network [[Paper](https://arxiv.org/abs/2011.02255)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/522345993)]
 - CVPR'20 Distilling Knowledge from Graph Convolutional Networks [[Paper](https://arxiv.org/abs/2003.10477)] [[Code](https://github.com/ihollywhy/DistillGCN.PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/522926912)]
 - ICLR'22 Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation [[Paper](https://arxiv.org/abs/2110.08727)] [[Code](https://github.com/snap-research/graphless-neural-networks)] [[Link](https://zhuanlan.zhihu.com/p/523383588)]
+- WWW'21  Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework  [[Paper](https://arxiv.org/abs/2103.02885)] [[Code](https://github.com/BUPT-GAMMA/CPF)] [[Link](https://zhuanlan.zhihu.com/p/523829567)]
+- SIGMOD'20 Reliable Data Distillation on Graph Convolutional Network [[Paper](http://olivier.ruas.free.fr/papers/SIGMOD20.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/524706697)]
 
 # 2. Privacy GNN
 
