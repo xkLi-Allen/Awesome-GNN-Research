@@ -44,6 +44,7 @@
 - WWW'21  Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework  [[Paper](https://arxiv.org/abs/2103.02885)] [[Code](https://github.com/BUPT-GAMMA/CPF)] [[Link](https://zhuanlan.zhihu.com/p/523829567)]
 - SIGMOD'20 Reliable Data Distillation on Graph Convolutional Network [[Paper](http://olivier.ruas.free.fr/papers/SIGMOD20.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/524706697)]
 - KDD'21 ROD: Reception-aware Online Distillation for Sparse Graphs [[Paper](https://arxiv.org/pdf/2107.11789.pdf)] [[Code](https://github.com/zwt233/ROD)] [[Link](https://zhuanlan.zhihu.com/p/524839956)]
+- KDD'22 Compressing Deep Graph Neural Networks via Adversarial Knowledge Distillation [[Paper](https://arxiv.org/pdf/2205.11678.pdf)] [[Code](https://github.com/MIRALab-USTC/GraphAKD)] [[Link](https://zhuanlan.zhihu.com/p/525223627)]
 
 # 2. Privacy GNN
 
