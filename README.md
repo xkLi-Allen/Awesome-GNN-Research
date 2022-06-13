@@ -46,6 +46,8 @@
 - KDD'21 ROD: Reception-aware Online Distillation for Sparse Graphs [[Paper](https://arxiv.org/pdf/2107.11789.pdf)] [[Code](https://github.com/zwt233/ROD)] [[Link](https://zhuanlan.zhihu.com/p/524839956)]
 - KDD'22 Compressing Deep Graph Neural Networks via Adversarial Knowledge Distillation [[Paper](https://arxiv.org/pdf/2205.11678.pdf)] [[Code](https://github.com/MIRALab-USTC/GraphAKD)] [[Link](https://zhuanlan.zhihu.com/p/525223627)]
 - IJCAI'21 Graph-Free Knowledge Distillation for Graph Neural Networks [[Paper](https://www.ijcai.org/proceedings/2021/0320.pdf)] [[Code](https://github.com/Xiang-Deng-DL/GFKD)] [[Link](https://zhuanlan.zhihu.com/p/526258612)]
+- CVPR'22 Robust Optimization as Data Augmentation for Large-scale Graphs [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Robust_Optimization_As_Data_Augmentation_for_Large-Scale_Graphs_CVPR_2022_paper.pdf)] [[Code](https://github.com/devnkong/FLAG)] [[Link](https://zhuanlan.zhihu.com/p/527957286)]
+- arXiv’21 Distilling Self-Knowledge From Contrastive Links to Classify Graph Nodes Without Passing Messages [[Paper](https://arxiv.org/pdf/2106.08541.pdf)] [[Code](https://github.com/cf020031308/LinkDist)] [[Link](https://zhuanlan.zhihu.com/p/528128661)]
 
 # 2. Privacy GNN
 
@@ -112,7 +114,7 @@
 - arXiv'20 Non-IID Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.12386)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444278767)] 
 - ICLR'20 On the Convergence of FedAvg on Non-IID Data [[Paper](https://arxiv.org/abs/1907.02189)] [[Code](https://github.com/lx10077/fedavgpy)] [[Link](https://zhuanlan.zhihu.com/p/500005337)]
 
-- arXiv'19 Detailed comparison of communication efficiency of split learning and federated learning [[Paper](https://arxiv.org/pdf/1909.09145.pdf)] [[Link](https://zhuanlan.zhihu.com/p/435255850)] ▲
+- arXiv'19 Detailed comparison of communication efficiency of split learning and federated learning [[Paper](https://arxiv.org/pdf/1909.09145.pdf)] [[Link](https://zhuanlan.zhihu.com/p/435255850)] 
 
 # 4. GNN library
 
