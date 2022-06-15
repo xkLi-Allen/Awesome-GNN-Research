@@ -49,6 +49,7 @@
 - CVPR'22 Robust Optimization as Data Augmentation for Large-scale Graphs [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Robust_Optimization_As_Data_Augmentation_for_Large-Scale_Graphs_CVPR_2022_paper.pdf)] [[Code](https://github.com/devnkong/FLAG)] [[Link](https://zhuanlan.zhihu.com/p/527957286)]
 - arXiv’21 Distilling Self-Knowledge From Contrastive Links to Classify Graph Nodes Without Passing Messages [[Paper](https://arxiv.org/pdf/2106.08541.pdf)] [[Code](https://github.com/cf020031308/LinkDist)] [[Link](https://zhuanlan.zhihu.com/p/528128661)]
 - arXiv'20 Non-IID Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.12386)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444278767)] 
+- AAAI'22 Workshop  Scalable Consistency Training for Graph Neural Networks via Self-Ensemble Self-Distillation [[Paper](https://arxiv.org/pdf/2110.06290.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/529094761)]
 
 # 2. Privacy GNN
 
