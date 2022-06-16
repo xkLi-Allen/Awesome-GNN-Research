@@ -50,6 +50,7 @@
 - arXiv’21 Distilling Self-Knowledge From Contrastive Links to Classify Graph Nodes Without Passing Messages [[Paper](https://arxiv.org/pdf/2106.08541.pdf)] [[Code](https://github.com/cf020031308/LinkDist)] [[Link](https://zhuanlan.zhihu.com/p/528128661)]
 - arXiv'20 Non-IID Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.12386)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444278767)] 
 - AAAI'22 Workshop  Scalable Consistency Training for Graph Neural Networks via Self-Ensemble Self-Distillation [[Paper](https://arxiv.org/pdf/2110.06290.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/529094761)]
+- arXiv'22 On Representation Knowledge Distillation for Graph Neural Networks [[Paper](https://arxiv.org/pdf/2111.04964.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/529728564)]
 
 # 2. Privacy GNN
 
