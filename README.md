@@ -51,6 +51,9 @@
 - arXiv'20 Non-IID Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.12386)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444278767)] 
 - AAAI'22 Workshop  Scalable Consistency Training for Graph Neural Networks via Self-Ensemble Self-Distillation [[Paper](https://arxiv.org/pdf/2110.06290.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/529094761)]
 - arXiv'22 On Representation Knowledge Distillation for Graph Neural Networks [[Paper](https://arxiv.org/pdf/2111.04964.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/529728564)]
+- MICCAI'21 GKD: Semi-supervised Graph Knowledge Distillation for Graph-Independent Inference [[Paper](https://arxiv.org/pdf/2104.03597.pdf)] [[Code](https://github.com/mahsa91/GKD)] [[Link](https://zhuanlan.zhihu.com/p/529988634)]
+- KDD'20 TinyGNN: Learning Efficient Graph Neural Networks [[Paper](https://www.kdd.org/kdd2020/accepted-papers/view/tinygnn-learning-efficient-graph-neural-networks)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/534364243)] 
+- ICLR'21 On Graph Neural Networks versus Graph-Augmented MLPs [[Paperr](https://arxiv.org/pdf/2010.15116.pdf)] [[Code](https://github.com/leichen2018/GNN_vs_GAMLP)] [[Link](https://zhuanlan.zhihu.com/p/536284429)]
 
 # 2. Privacy GNN
 
@@ -100,6 +103,7 @@
 - ICML'21 Personalized Federated Learning using Hypernetworks [[Paper](https://arxiv.org/abs/2103.04628)] [[Code](https://github.com/AvivSham/pFedHN)] [[Link](https://zhuanlan.zhihu.com/p/431130945)] 
 - arXiv'20 GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs [[Paper](https://arxiv.org/abs/2012.04187)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/431479904)] 
 - ICLR'21 FedGraphNN: A Federated Learning Benchmark System for Graph Neural Networks [[Paper](https://arxiv.org/abs/2104.07145)] [[Code](https://github.com/FedML-AI/FedGraphNN)] [[Link](https://zhuanlan.zhihu.com/p/429220636)] 
+- ICLR'22 Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks [[Paper](https://arxiv.org/pdf/2111.08202.pdf)] [[Code](https://github.com/MortezaRamezani/llcg)] [[Link](https://zhuanlan.zhihu.com/p/536158540)]
 
 # 4. Fedrated Learning
 
@@ -112,6 +116,8 @@
 - ICLR'20 On the Convergence of FedAvg on Non-IID Data [[Paper](https://arxiv.org/abs/1907.02189)] [[Code](https://github.com/lx10077/fedavgpy)] [[Link](https://zhuanlan.zhihu.com/p/500005337)]
 - arXiv'19 Detailed comparison of communication efficiency of split learning and federated learning [[Paper](https://arxiv.org/pdf/1909.09145.pdf)] [[Link](https://zhuanlan.zhihu.com/p/435255850)] 
 - arXiv'22 CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning [[Paper](https://arxiv.org/pdf/2204.01542.pdf)] [[Code](https://github.com/Agent2H/CDKT_FL)] [[Link](https://zhuanlan.zhihu.com/p/528950968)]
+- NeurIPS'18 Workshop Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data [[Paper](https://arxiv.org/abs/1811.11479)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/535652457)]
+- NeurIPS'19 Workshop FedMD: Heterogenous Federated Learning via Model Distillation [[Paper](https://arxiv.org/pdf/1910.03581.pdf)] [[Code](https://github.com/diogenes0319/FedMD_clean)] [[Link](https://zhuanlan.zhihu.com/p/535687915?)]
 
 # 5. GNN library
 
