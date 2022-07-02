@@ -54,6 +54,7 @@
 - MICCAI'21 GKD: Semi-supervised Graph Knowledge Distillation for Graph-Independent Inference [[Paper](https://arxiv.org/pdf/2104.03597.pdf)] [[Code](https://github.com/mahsa91/GKD)] [[Link](https://zhuanlan.zhihu.com/p/529988634)]
 - KDD'20 TinyGNN: Learning Efficient Graph Neural Networks [[Paper](https://www.kdd.org/kdd2020/accepted-papers/view/tinygnn-learning-efficient-graph-neural-networks)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/534364243)] 
 - ICLR'21 On Graph Neural Networks versus Graph-Augmented MLPs [[Paperr](https://arxiv.org/pdf/2010.15116.pdf)] [[Code](https://github.com/leichen2018/GNN_vs_GAMLP)] [[Link](https://zhuanlan.zhihu.com/p/536284429)]
+- NeurIPS'20 Graph Random Neural Networks for Semi-Supervised Learning on Graphs [[Paper](https://arxiv.org/pdf/2005.11079.pdf)] [[Code](https://github.com/THUDM/GRAND)] [[Link](https://zhuanlan.zhihu.com/p/536767558)]
 
 # 2. Privacy GNN
 
