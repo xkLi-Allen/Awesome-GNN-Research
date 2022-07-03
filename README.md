@@ -120,6 +120,7 @@
 - arXiv'22 CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning [[Paper](https://arxiv.org/pdf/2204.01542.pdf)] [[Code](https://github.com/Agent2H/CDKT_FL)] [[Link](https://zhuanlan.zhihu.com/p/528950968)]
 - NeurIPS'18 Workshop Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data [[Paper](https://arxiv.org/abs/1811.11479)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/535652457)]
 - NeurIPS'19 Workshop FedMD: Heterogenous Federated Learning via Model Distillation [[Paper](https://arxiv.org/pdf/1910.03581.pdf)] [[Code](https://github.com/diogenes0319/FedMD_clean)] [[Link](https://zhuanlan.zhihu.com/p/535687915?)]
+- NeurIPS'20 Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge [[Paper](https://arxiv.org/pdf/2007.14513.pdf)] [[Code](https://fedml.ai/)] [[Link](https://zhuanlan.zhihu.com/p/536901871)]
 
 # 5. GNN library
 
