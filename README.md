@@ -56,6 +56,7 @@
 - ICLR'21 On Graph Neural Networks versus Graph-Augmented MLPs [[Paperr](https://arxiv.org/pdf/2010.15116.pdf)] [[Code](https://github.com/leichen2018/GNN_vs_GAMLP)] [[Link](https://zhuanlan.zhihu.com/p/536284429)]
 - NeurIPS'20 Graph Random Neural Networks for Semi-Supervised Learning on Graphs [[Paper](https://arxiv.org/pdf/2005.11079.pdf)] [[Code](https://github.com/THUDM/GRAND)] [[Link](https://zhuanlan.zhihu.com/p/536767558)]
 - WSDM'21 Node Similarity Preserving Graph Convolutional Networks [[Paper](https://arxiv.org/pdf/2011.09643.pdf)] [[Code](https://github.com/ChandlerBang/SimP-GCN)] [[Link](https://zhuanlan.zhihu.com/p/536794358)] 
+- AAAI'22 SAIL: Self-Augmented Graph Contrastive Learning [[Paper](https://arxiv.org/pdf/2009.00934.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/538091329)]
 
 # 2. Privacy GNN
 
