@@ -131,3 +131,8 @@
 - PyTorch Geometric（一）：数据加载 [[Link](https://zhuanlan.zhihu.com/p/425974734)]
 - PyTorch Geometric（二）：模型搭建 [[Link](https://zhuanlan.zhihu.com/p/427083823)]
 
+
+
+# Scalable ML
+
+1. CVPR'22 Decoupled Knowledge Distillation [[Paper](https://arxiv.org/pdf/2203.08679.pdf)] [[Code](https://github.com/megvii-research/mdistiller)] [[Link](https://zhuanlan.zhihu.com/p/540345474)]
