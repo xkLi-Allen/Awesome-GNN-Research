@@ -136,3 +136,4 @@
 # Scalable ML
 
 1. CVPR'22 Decoupled Knowledge Distillation [[Paper](https://arxiv.org/pdf/2203.08679.pdf)] [[Code](https://github.com/megvii-research/mdistiller)] [[Link](https://zhuanlan.zhihu.com/p/540345474)]
+2. CVPR'21  Distilling Knowledge via Knowledge Review  [[Paper](https://arxiv.org/pdf/2104.09044.pdf)] [[Code](https://github.com/dvlab-research/ReviewKD)] [[Link](https://zhuanlan.zhihu.com/p/540706096)]
