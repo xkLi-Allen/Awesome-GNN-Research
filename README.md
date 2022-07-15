@@ -58,6 +58,7 @@
 - WSDM'21 Node Similarity Preserving Graph Convolutional Networks [[Paper](https://arxiv.org/pdf/2011.09643.pdf)] [[Code](https://github.com/ChandlerBang/SimP-GCN)] [[Link](https://zhuanlan.zhihu.com/p/536794358)] 
 - AAAI'22 SAIL: Self-Augmented Graph Contrastive Learning [[Paper](https://arxiv.org/pdf/2009.00934.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/538091329)]
 - KDD'22 Model Degradation Hinders Deep Graph Neural Networks [[Paper](https://arxiv.org/pdf/2206.04361.pdf)] [[Code](https://github.com/zwt233/AIR)] [[Link](https://zhuanlan.zhihu.com/p/538767995)]
+- KDD'22 KDD'22 Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective [[Paper](https://arxiv.org/pdf/2206.07743.pdf)] [[Code](https://github.com/ChandlerBang/DeCorr)] [[Link](https://zhuanlan.zhihu.com/p/541796205)]
 
 # 2. Privacy GNN
 
