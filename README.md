@@ -3,7 +3,9 @@
  <h2 align="center">Awesome GNN Research</h2>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XunkaiLi&show_icons=true&theme=gruvbox_light)
+  <div align=center>  
+      <img src="https://github-readme-stats.vercel.app/api?username=XunkaiLi&show_icons=true&theme=gruvbox_light"/>
+  </div>
 
 :fire: **Top AI&ML&DM Conferences or Journals and arXiv Prep.**
 
