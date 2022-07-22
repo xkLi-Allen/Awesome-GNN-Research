@@ -19,24 +19,24 @@ Scalable Graph Neural Networks, Federated Graph Learning, Recommender system Bas
 
 # Wizardship
 
-- [Scalable Graph Neural Networks](#Scalable Graph Neural Networks)
-  - [Graph Embedding](#Graph Embedding)
-  - [Linear-model based Graph Neural Networks](#Linear-model based Graph Neural Networks)
-  - [Sampling based Graph Neural Networks](#Sampling based Graph Neural Networks)
-  - [Model Compression and Quantification](#Model Compression and Quantification)
-  - [Efficient Architecture and Paradigm](#Efficient Architecture and Paradigm)
-  - [Graph Data Augmentation](#Graph Data Augmentation)
-  - [Imbalance GNN](#Graph Data Augmentation)
-- [Federated Graph Learning](#Federated Graph Learning)
-  - [Personalized and Heterogeneous Federated Learning in CV or NLP](#Personalized and Heterogeneous Federated Learning in CV or NLP)
-  - [Theoretical analysis of Federated Learning in CV or NLP](#Theoretical analysis of Federated Learning in CV or NLP)
-  - [CV or NLP Model Compression and Quantification in Federated Learning ](#CV or NLP Model Compression and Quantification in Federated Learning )
-  - [Transfer Federated Graph Learning and Graph Structure Federated Learning](#Transfer Federated Graph Learning and Graph Structure Federated Learning)
-  - [Intra-Graph Horizontal Federated Learning](#Intra-Graph Horizontal Federated Learning)
-  - [Inter-Graph Horizontal Federated Learning](#Inter-Graph Horizontal Federated Learning)
-  - [Vertical Federal Learning](#Vertical Federal Learning)
-- [Privacy Graph Neural Networks](#Privacy Graph Neural Networks)
-- [Survey and Framework Toolkits](#Survey and Framework Toolkits)
+- [Scalable Graph Neural Networks](#Scalable-Graph-Neural-Networks)
+  - [Graph Embedding](#Graph-Embedding)
+  - [Linear-model based Graph Neural Networks](#Linear-model-based-Graph-Neural-Networks)
+  - [Sampling based Graph Neural Networks](#Sampling-based-Graph-Neural-Networks)
+  - [Model Compression and Quantification](#Model-Compression-and-Quantification)
+  - [Efficient Architecture and Paradigm](#Efficient-Architecture-and-Paradigm)
+  - [Graph Data Augmentation](#Graph-Data-Augmentation)
+  - [Imbalance Graph Neural Networks](#Imbalance-Graph-Neural-Networks)
+- [Federated Graph Learning](#Federated-Graph-Learning)
+  - [Personalized and Heterogeneous Federated Learning in CV or NLP](#Personalized-and-Heterogeneous-Federated-Learning-in-CV-or-NLP)
+  - [Theoretical Analysis of Federated Learning in CV or NLP](#Theoretical-Analysis-of-Federated-Learning-in-CV-or-NLP)
+  - [CV or NLP Model Compression and Quantification in Federated Learning ](#CV-or-NLP-Model-Compression-and-Quantification-in-Federated-Learning )
+  - [Transfer Federated Graph Learning and Graph Structure Federated Learning](#Transfer-Federated-Graph-Learning-and-Graph-Structure-Federated-Learning)
+  - [Intra-Graph Horizontal Federated Learning](#Intra-Graph-Horizontal-Federated-Learning)
+  - [Inter-Graph Horizontal Federated Learning](#Inter-Graph-Horizontal-Federated-Learning)
+  - [Vertical Federal Learning](#Vertical-Federal-Learning)
+- [Privacy Graph Neural Networks](#Privacy-Graph-Neural-Networks)
+- [Survey and Framework Toolkits](#Survey-and-Framework-Toolkits)
 
 # Scalable Graph Neural Networks
 
@@ -110,7 +110,7 @@ Scalable Graph Neural Networks, Federated Graph Learning, Recommender system Bas
 - KDD'22 Model Degradation Hinders Deep Graph Neural Networks [[Paper](https://arxiv.org/pdf/2206.04361.pdf)] [[Code](https://github.com/zwt233/AIR)] [[Link](https://zhuanlan.zhihu.com/p/538767995)]
 - KDD'22 KDD'22 Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective [[Paper](https://arxiv.org/pdf/2206.07743.pdf)] [[Code](https://github.com/ChandlerBang/DeCorr)] [[Link](https://zhuanlan.zhihu.com/p/541796205)]
 
-## Imbalance Graph Neural Networks and Graph Data Augmentation
+## Graph Data Augmentation
 
 - KDD'20 NodeAug: Semi-Supervised Node Classification with Data Augmentation [[Paper](https://bhooi.github.io/papers/nodeaug_kdd20.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/466885671)] 
 - arXiv'21 Local Augmentation for Graph Neural Networks [[Paper](https://arxiv.org/pdf/2109.03856.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/467800945)] 
@@ -121,7 +121,7 @@ Scalable Graph Neural Networks, Federated Graph Learning, Recommender system Bas
 - CVPR'22 Robust Optimization as Data Augmentation for Large-scale Graphs [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Robust_Optimization_As_Data_Augmentation_for_Large-Scale_Graphs_CVPR_2022_paper.pdf)] [[Code](https://github.com/devnkong/FLAG)] [[Link](https://zhuanlan.zhihu.com/p/527957286)]
 - AAAI'22 SAIL: Self-Augmented Graph Contrastive Learning [[Paper](https://arxiv.org/pdf/2009.00934.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/538091329)]
 
-## Imbalance GNN
+## Imbalance Graph Neural Networks
 
 - arXiv'20 Non-Local Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.14612v1)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444884642)] 
 - arXiv'20 Non-IID Graph Neural Networks [[Paper](https://arxiv.org/abs/2005.12386)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/444278767)] 
@@ -145,7 +145,7 @@ Scalable Graph Neural Networks, Federated Graph Learning, Recommender system Bas
 - arXiv'20 Adaptive Personalized Federated Learning [[Paper](https://arxiv.org/abs/2003.13461)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/497269102)]
 - AAAI'21 Addressing Class Imbalance in Federated Learning [[Paper](https://arxiv.org/abs/2008.06217)] [[Code](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL)] [[Link](https://zhuanlan.zhihu.com/p/443009189)] 
 
-## Theoretical analysis of Federated Learning in CV or NLP
+## Theoretical Analysis of Federated Learning in CV or NLP
 
 - JMLR'17 Communication-Efficient Learning of Deep Networks from Decentralized Data [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Code](https://github.com/AshwinRJ/Federated-Learning-PyTorch)] [[Link](https://zhuanlan.zhihu.com/p/429370255)]
 - arXiv'19 Detailed comparison of communication efficiency of split learning and federated learning [[Paper](https://arxiv.org/pdf/1909.09145.pdf)] [[Link](https://zhuanlan.zhihu.com/p/435255850)] 
