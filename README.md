@@ -60,7 +60,7 @@ Scalable Graph Neural Networks, Federated Graph Learning, Recommender system Bas
 - arXiv'21 Scalable and Adaptive Graph Neural Networks with Self-Label-Enhanced Training [[Paper](https://arxiv.org/pdf/2104.09376.pdf)] [[Code](https://github.com/skepsun/SAGN_with_SLE)] [[Link](https://zhuanlan.zhihu.com/p/543120470)]
 - ICLR'21 Combining Label Propagation and Simple Models Out-performs Graph Neural Networks [[Paper](https://arxiv.org/pdf/2010.13993.pdf)] [[Code](https://github.com/CUAI/CorrectAndSmooth)] [[Link](https://zhuanlan.zhihu.com/p/543120470)]
 - ICLR'22 Node Feature Extraction by Self-Supervised Multi-scale Neighborhood Prediction [[Paper](https://arxiv.org/pdf/2111.00064.pdf)] [[Code](https://github.com/elichienxD/SAGN_with_SLE)] [[Link](https://zhuanlan.zhihu.com/p/543120470)]
-- arXiv'22  SCR: Training Graph Neural Networks with Consistency Regularization [[Paper](https://arxiv.org/pdf/2112.04319.pdf)] [[Code](https://github.com/THUDM/SCR)] [[Link](https://zhuanlan.zhihu.com/p/543120470)]
+- arXiv'22 SCR: Training Graph Neural Networks with Consistency Regularization [[Paper](https://arxiv.org/pdf/2112.04319.pdf)] [[Code](https://github.com/THUDM/SCR)] [[Link](https://zhuanlan.zhihu.com/p/543120470)]
 - KDD'22 Graph Attention MLP with Reliable Label Utilization [[Paper](https://arxiv.org/pdf/2108.10097.pdf)] [[Code](https://github.com/PKU-DAIR/GAMLP)] [[Link](https://zhuanlan.zhihu.com/p/543120470)]
 
 ## Sampling based Graph Neural Networks
@@ -71,13 +71,12 @@ Scalable Graph Neural Networks, Federated Graph Learning, Recommender system Bas
 ## Model Compression and Quantification
 
 - NeurIPS'14 Distilling the Knowledge in a Neural Network [[Paper](https://arxiv.org/pdf/1503.02531.pdf)] [[Code](https://github.com/JoonyoungYi/KD-pytorch)] [[Link](https://zhuanlan.zhihu.com/p/542550895)]
-
 - ICLR'15 FitNets: Hints for Thin Deep Nets [[Paper](https://arxiv.org/pdf/1412.6550.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/542550895)]
 - ICLR'17 Paying More Attention to Attention: Improving The Performance of Convolutional Neural Networks via Attention Transfer [[Paper](https://arxiv.org/pdf/1612.03928.pdf)] [[Code](https://github.com/szagoruyko/attention-transfer)] [[Link](https://zhuanlan.zhihu.com/p/542550895)]
-
 - ICCV'19 Similarity-Preserving Knowledge Distillation [[Paper](https://arxiv.org/pdf/1907.09682.pdf)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/542398176)]
-
-- CVPR'21  Distilling Knowledge via Knowledge Review  [[Paper](https://arxiv.org/pdf/2104.09044.pdf)] [[Code](https://github.com/dvlab-research/ReviewKD)] [[Link](https://zhuanlan.zhihu.com/p/540706096)]
+- ICCV'19  Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Be_Your_Own_Teacher_Improve_the_Performance_of_Convolutional_Neural_ICCV_2019_paper.pdf)] [[Code](https://github.com/luanyunteng/pytorch-be-your-own-teacher)] [[Link](https://zhuanlan.zhihu.com/p/545136524)]
+- CVPR'21 Distilling Knowledge via Knowledge Review  [[Paper](https://arxiv.org/pdf/2104.09044.pdf)] [[Code](https://github.com/dvlab-research/ReviewKD)] [[Link](https://zhuanlan.zhihu.com/p/540706096)]
+- CVPR'21 Distill on the Go: Online knowledge distillation in self-supervised learning [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Bhat_Distill_on_the_Go_Online_Knowledge_Distillation_in_Self-Supervised_Learning_CVPRW_2021_paper.pdf)] [[Code](https://github.com/NeurAI-Lab/DoGo)] [[Link](https://zhuanlan.zhihu.com/p/545141466)]
 - CVPR'22 Decoupled Knowledge Distillation [[Paper](https://arxiv.org/pdf/2203.08679.pdf)] [[Code](https://github.com/megvii-research/mdistiller)] [[Link](https://zhuanlan.zhihu.com/p/540345474)]
 
 ------
@@ -110,7 +109,7 @@ Scalable Graph Neural Networks, Federated Graph Learning, Recommender system Bas
 - WSDM'21 Node Similarity Preserving Graph Convolutional Networks [[Paper](https://arxiv.org/pdf/2011.09643.pdf)] [[Code](https://github.com/ChandlerBang/SimP-GCN)] [[Link](https://zhuanlan.zhihu.com/p/536794358)] 
 - ICLR'22 A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" [[Paper](https://openreview.net/forum?id=uxgg9o7bI_3)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/465200994)] 
 - KDD'22 Model Degradation Hinders Deep Graph Neural Networks [[Paper](https://arxiv.org/pdf/2206.04361.pdf)] [[Code](https://github.com/zwt233/AIR)] [[Link](https://zhuanlan.zhihu.com/p/538767995)]
-- KDD'22 KDD'22 Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective [[Paper](https://arxiv.org/pdf/2206.07743.pdf)] [[Code](https://github.com/ChandlerBang/DeCorr)] [[Link](https://zhuanlan.zhihu.com/p/541796205)]
+- KDD'22 Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective [[Paper](https://arxiv.org/pdf/2206.07743.pdf)] [[Code](https://github.com/ChandlerBang/DeCorr)] [[Link](https://zhuanlan.zhihu.com/p/541796205)]
 
 ## Graph Data Augmentation
 
