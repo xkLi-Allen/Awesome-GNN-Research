@@ -129,7 +129,7 @@ Scalable Graph Neural Networks, Federated Graph Learning, Recommender system Bas
 - WSDM'21 GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks [[Paper](https://arxiv.org/abs/2103.08826)] [[Code](https://github.com/TianxiangZhao/GraphSmote)] [[Link](https://zhuanlan.zhihu.com/p/445035949)] 
 - IJCAI'21 Multi-Class Imbalanced Graph Convolutional Network Learning [[Paper](https://www.ijcai.org/proceedings/2020/0398.pdf)] [[Code](https://github.com/codeshareabc/DRGCN)] [[Link](https://zhuanlan.zhihu.com/p/446314982)]  
 - NeurIPS’21 Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training Data [[Paper](https://link.zhihu.com/?target=https%3A//proceedings.neurips.cc/paper/2021/file/eb55e369affa90f77dd7dc9e2cd33b16-Paper.pdf)] [[Code](https://github.com/GentleZhu/Shift-Robust-GNNs)] [[Link](https://zhuanlan.zhihu.com/p/522066981)]
-
+- arXiv'23 Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection [[Paper](https://arxiv.org/abs/2306.00006)] [[Code](https://github.com/mala-lab/TAM-master)] 
 # Federated Graph Learning
 
 - Big Data'19 SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure [[Paper](https://ieeexplore.ieee.org/abstract/document/9005983)] [No Code] [[Link](https://zhuanlan.zhihu.com/p/430953193)] 
